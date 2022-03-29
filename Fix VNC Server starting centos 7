@@ -1,0 +1,2 @@
+# rm -f /tmp/.X4-lock
+# rm -f /tmp/.X11-unix/X4
